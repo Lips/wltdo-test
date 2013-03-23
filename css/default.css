@@ -490,7 +490,7 @@
 							inset 0 -20px 20px -20px rgba(0,0,0,0.75);
 	}
 	#content{padding:82px 0 0;}
-	#mainNav{text-align:center; font-size:.75em;}
+	#mainNav{text-align:center; font-size:14px;}
 	#mainNav li{
 		display:inline-block;
 		margin:0 7px;
@@ -721,14 +721,14 @@
 	#content{padding:0;}
 }
 @media all and (max-width: 780px){
-	body{font-size:13px;}
+	body{font-size:14px;}
 	.buttons{font-size:9px;}
 	h1{font-size:3.5em;}
 	.subHeading{font-size:2em;}
 	.news h3{font-size:1.3em;}
 }
 @media all and (max-width: 504px){
-	body{font-size:12px;}
+	body{font-size:14px;}
 	.columns > div,
 	.columns > article{
 		float:none;
@@ -760,6 +760,7 @@
 	.subHeading{font-size:1.75em;}
 }
 @media all and (max-width: 320px){
+	body{font-size:14px;}
 	.buttons > span{display:none;}
 	.buttons .btn{margin-top:0.5em;}
 	.buttons{margin-top:2em;}
