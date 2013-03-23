@@ -130,7 +130,7 @@
 	.row{
 		width:100%;
 		background:#eaeaea;
-		padding:2.857em 0;
+		padding:.75em 0;
 	}
 	.row:after{
 		content:"";
